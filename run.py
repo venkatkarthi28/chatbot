@@ -106,7 +106,7 @@ if __name__ == "__main__":
     load_env_file()
 
     # Step 2: Validate setup
-    if __name__ == '__main__':
+    
     load_env_file()
     validate_setup()
     
